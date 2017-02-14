@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.middell</groupId>
     <artifactId>markup-utils</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>Markup Utilities</name>
     <description>Markup Utilities</description>
     <url>http://github.com/gremid/markup-utils</url>
@@ -69,7 +69,7 @@
         <connection>scm:git:git@github.com:gremid/markup-utils.git</connection>
         <developerConnection>scm:git:git@github.com:gremid/markup-utils.git</developerConnection>
         <url>git@github.com:gremid/markup-utils.git</url>
-        <tag>markup-utils-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
